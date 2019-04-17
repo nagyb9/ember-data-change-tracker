@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielspaniel/ember-data-change-tracker"
+    "url": "https://github.com/nagyb9/ember-data-change-tracker"
   },
-  "homepage": "https://github.com/danielspaniel/ember-data-change-tracker",
+  "homepage": "https://github.com/nagyb9/ember-data-change-tracker",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
